@@ -1,8 +1,8 @@
 I’m @eduluca
-- Interested in bridging machine learning and deep learning with biomedicine. Proficient in computer vision/scanning apps, motion sensing, and sound reception analysis
-- Currently learning tensorflow, keras, pytorch, scikit-learn, opencv, pandas, numpy, SVM, KNN, AdaBoost, XGBoost, Random Forest, Linear Regression, Xcode, Android Studio
-- Fluent in Python, MATLAB, C++, R, JavaScript, Swift, Kotlin
+- I am an electrical and computer engineer interested in software engineering, machine learning, embedded systems, and blockchain technology with a solid foundation in biotechnology and biomedicine.
+- Currently working on multiple projects such as: thesis project on software development for a plethysmography system with machine learning classification for breath types.
+- Fluent in Python, MATLAB, C, C++, VHDL, ASM, R, JavaScript, Swift, Kotlin
 - How to reach me
-EMAIL: edward.luca@hotmail.com
+EMAIL: edward.luca@ufl.edu
 
 
